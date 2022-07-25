@@ -1,0 +1,22 @@
+.sessionend-conatiner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  font-size: 2rem;
+  background-color: black;
+  color: white;
+  font-weight: 800;
+}
+.session-bottom {
+  margin: 2rem;
+  padding: 1rem;
+  font-size: 1rem;
+  background-color: #006fbe;
+  text-decoration: none;
+}
+.link-sessionend {
+  text-decoration: none;
+  color: white;
+}
